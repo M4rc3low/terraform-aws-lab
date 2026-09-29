@@ -1,5 +1,13 @@
 # Terraform AWS Lab
 
+<!-- portfolio-cover:start -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/M4rc3low/M4rc3low.github.io/main/assets/projects/terraform-aws.svg" alt="Capa conceitual ilustrativa do projeto terraform-aws-lab" width="920">
+</div>
+
+> **Capa visual ilustrativa:** representa o conceito do projeto; não é uma captura da aplicação em execução. Veja a [galeria visual completa](https://m4rc3low.github.io/projetos.html).
+<!-- portfolio-cover:end -->
+
 [![Terraform CI](https://github.com/M4rc3low/terraform-aws-lab/actions/workflows/terraform.yml/badge.svg)](https://github.com/M4rc3low/terraform-aws-lab/actions/workflows/terraform.yml)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
